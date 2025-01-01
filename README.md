@@ -46,4 +46,4 @@ For inquiries, reach out to us via email at `dbosscoin@gmail.com`.
 
 This white paper and its contents are the intellectual property of the DBOSS Coin team.  
 Reproduction, modification, or distribution without prior permission is prohibited.  
-For inquiries about reuse or permissions, please contact us at `support@dbosscoin.com`.
+For inquiries about reuse or permissions, please contact us at `dbosscoin@gmail.com`.
